@@ -11,6 +11,12 @@
       "day": "Sabtu",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "makan",
+      "day": "besok",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
