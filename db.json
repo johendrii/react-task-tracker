@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Libur",
+      "day": "Selasa",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Liburan",
+      "day": "Sabtu",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
